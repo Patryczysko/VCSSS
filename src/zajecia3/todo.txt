@@ -1,6 +1,7 @@
 
 Dodanie "funkcjonalności" newsów do systemu:
 hahahahsadas
+dgfgdfg
 1) Dodanie klasy danych typu News;
    - string title
    - string fulltext
